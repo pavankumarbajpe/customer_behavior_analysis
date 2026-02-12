@@ -1,12 +1,12 @@
 # 📊 Data Analytics Project – End-to-End Analysis & Visualization
 
-📌 Overview
+## 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data ingestion to actionable insights and business-ready visualizations. The work includes data exploration and cleaning using Python, querying data using PostgreSQL, building an interactive Power BI dashboard, and presenting insights through a structured report and presentation.
 
 The goal of this project is to showcase practical data analytics skills used in real-world business scenarios.
 
-📂 Dataset
+## 📂 Dataset
 
 The dataset contains structured data relevant to business analysis.
 
@@ -15,7 +15,7 @@ It includes multiple attributes such as categorical and numerical fields used fo
 Data quality issues such as missing values and inconsistencies were identified and addressed during preprocessing.
 
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Python – Data loading, cleaning, and exploratory data analysis (EDA)
 
@@ -31,7 +31,7 @@ Gamma – Presentation (PPT) creation
 
 Jupyter Notebook – Code execution and documentation
 
-🔄 Project Workflow / Steps
+## 🔄 Project Workflow / Steps
 
 Data Loading
 
@@ -77,7 +77,7 @@ Created a structured analytical report summarizing findings.
 
 Built a professional presentation using Gamma for stakeholder communication.
 
-📈 Power BI Dashboard
+## 📈 Power BI Dashboard
 
 Interactive and user-friendly dashboard
 
@@ -87,9 +87,8 @@ Enables filtering and drill-down analysis
 
 Designed for business users and decision-makers
 
-(Dashboard screenshots or link can be added here.)
 
-📊 Results & Insights
+## 📊 Results & Insights
 
 Identified key patterns and trends in the data.
 
