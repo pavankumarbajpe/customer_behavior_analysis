@@ -1,4 +1,5 @@
 📊 Data Analytics Project – End-to-End Analysis & Visualization
+
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data ingestion to actionable insights and business-ready visualizations. The work includes data exploration and cleaning using Python, querying data using PostgreSQL, building an interactive Power BI dashboard, and presenting insights through a structured report and presentation.
